@@ -4,5 +4,5 @@ Mini-RPG em Java desenvolvido durante as aulas de Programação Orientada a Obje
 
 \## Estado atual
 
-Projeto em preparação.
+Primeira versão sob controle de versão.
 
